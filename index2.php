@@ -18,8 +18,6 @@ body {
 	max-width: 100%;
 	margin-left: auto;
 	margin-right: auto;
-	display: grid;
-	max-width: 1200px;
 }
 
 .menu-header {
